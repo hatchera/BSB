@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Block any server-side scripts from being indexed
+Disallow: /mail.php
+
+# Sitemap location
+Sitemap: https://www.broadstreetboxing.co.uk/sitemap.xml
